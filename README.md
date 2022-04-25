@@ -1,5 +1,133 @@
 # cvelte
 
+TRUST
+
+INT: A BEDROOM
+
+Ursula has just walked in on her husband, Mark, in a compromising situation with another woman.
+
+URSULA
+
+(Flatly)
+
+I knew it. All the late nights and secret "office meetings"…I should've seen this coming. God, Mark, how could you? Twenty-five years together and you can't even be honest with me? I get to find you in bed with a…an intern?
+
+(To the woman, dangerously)
+
+You. Keep your mouth shut. And you-
+
+(Points at Mark threateningly, her lip starting to quiver)
+
+You stupid, unfaithful rug of a man! You inane, hopeless dishrag! No! Shut up! Look at you. What are you even doing? Did you think? Did you think at all? No, don't answer me, I can see it all over your face. You didn't think for a second. Not about your family, not about your future, and certainly not about me. Marriage is a sacrament and what does that mean to you? Nothing at all. Nothing at all. You insect. You are not my husband. A marriage requires trust. It requires communication. And you just…god, you make me so sick I could cry.
+
+(She puts a hand to her mouth as though she may indeed cry but
+nothing comes except more fury.)
+
+God! I can't even-Do you even have the smallest inkling of how important this month is to us? You are behind in the polls by a six percent margin. If this gets out, who do you think is going to be paying attention to your immigration policy? No one, Mark, you despicable trash heap. All anyone will be talking about is the scandal of you cheating on your wife with the help!
+
+(She shakes her head and turns away)
+
+Don't you say a word to me. Don't you dare say a word. I will never, never forgive you for this.
+
+(Pacing the room and muttering.)
+
+At least no one knows. And they never will. This is a position of trust and I cannot let you put that at risk. Not now. Not when we're so close. I just can't believe you would do this to me.
+
+SUICIDE
+
+INT: JASON'S BEDROOM
+
+Jason is lying on his bed, staring dully at the ceiling. Jax has barged in and is pacing the room as he furiously addresses Jason's prone figure.
+
+Jax
+
+So Harrison killed himself last night, huh? Hey, look at me when I'm talking to you. My Harrison. He's dead. I know that friends of the deceased aren't supposed to talk about how much they're grieving to the family. I'm supposed to listen to you talk about how sad you are that your brother is dead.
+
+(Waits. Silence.)
+
+Whatever. I was there for Harrison more than any of you. I was his real family, Jay, not you. I was his best friend. I'm the one he came to when your parents threatened to send him to camp, or the army, like that was going to help. You never said anything to stop it and you should have.
+
+(Sits down, head in hands.)
+
+I keep thinking about last night and what I said to him, you know, before. Like, if it affected him somehow. I said he couldn't come over this week, because your dad called my dad and there was a lot of yelling. I told Harrison we had to spend some time apart so that people didn't assume… Do you think that pushed him over? Like, that I was worried about what other people thought? Because I wasn't, not really, I just… I keep imagining him listening to me with the phone against his shoulder, using both hands to tie the knots. He has a pianist's hands, you know? Had. I keep thinking, though, maybe if I'd asked him to come over anyway, he might have put it down. He might have walked away. I don't know.
+
+God, can't you just say something already? Anything. Just say anything at all.
+
+THE WISHING MAN
+by Walter Ben Hare
+
+INT: A ROOM IN FATHER FRITZ'S HOUSE
+
+The Wishing Man sings and dances to the tune of "The Wearing of the Green."
+
+WISHING MAN
+
+I'm the friend of all the children,
+
+And I'll help you if I can,
+
+Just tell me what your wishes are,
+
+For I'm the Wishing Man.
+
+I have wishbones on my fingers,
+
+I have myst'ry in my eyes,
+
+My clothes are trimmed with horseshoes,
+
+And they're stained with magic dyes.
+
+My pocket's full of rabbits' feet,
+
+And clover leaves and charms,
+
+For luck I've got a big black cat
+
+All tattooed on my arms,
+
+I'm a friend of all the children,
+
+And I'll help you if I can,
+
+So tell me what your wishes are-
+
+For I'm the Wishing Man.
+
+ 
+
+I come from a distant country
+
+Away up near the pole,
+
+But the things that I am telling you,
+
+You mustn't tell a soul.
+
+I know every witch and goblin,
+
+And if you would believe!
+
+I have fortunes in my pocket-book,
+
+And wonders up my sleeve.
+
+When any little boy or girl
+
+Says, "Wishing Man, appear!"
+
+I jump right up from underneath,
+
+And here I am, my dear!
+
+I'm a friend of all the children,
+
+And I'll help you if I can,
+
+So tell me what your wishes are-
+
+For I'm the Wishing Man.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in pharetra risus, eget tincidunt lacus. Pellentesque vel tempor lacus, vitae viverra ante. Proin efficitur vulputate porta. Vestibulum auctor sodales velit ut dignissim. Nunc vel dui nibh. Aliquam erat volutpat. Morbi ut nisl efficitur, hendrerit tortor at, tempus leo. Fusce porta sollicitudin dui eu eleifend. Phasellus non massa leo. Quisque venenatis, mi id euismod semper, mauris purus hendrerit purus, ac laoreet nibh dui nec justo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras tortor ex, tempor id augue sed, venenatis euismod ipsum. Sed vehicula viverra dictum.
 
 Integer maximus turpis non velit faucibus commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla scelerisque massa a nunc ultrices, laoreet fermentum mauris eleifend. Nulla porttitor eu ligula eget porttitor. Sed tempus diam neque, laoreet dapibus lacus vehicula ac. Proin sed metus eget dolor euismod lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare consectetur nulla, facilisis pulvinar nulla accumsan quis. In fermentum consequat blandit. Suspendisse vitae augue sem. Fusce mollis lacus ut erat rhoncus placerat. Cras semper bibendum interdum.
