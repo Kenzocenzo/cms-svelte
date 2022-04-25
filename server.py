@@ -549,7 +549,7 @@ def changeUsername():
     myCursor.execute("SELECT *, oid FROM users")
     users = [dict(row) for row in myCursor.fetchall()]
     for el in users:
-        if(el["login"]==login and el["rowid"] != id):
+        if(el["login"]==login and int(el["rowid"])!=int(id)):
            return {"x":1}
     myCursor.execute("UPDATE users SET login = '" + login + "', password = '"+password+ "' WHERE oid = "+id)
     myConnection.commit()
