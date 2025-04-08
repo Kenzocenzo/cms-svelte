@@ -97,7 +97,7 @@
 						{/each}
 						{#if sessionStorage.getItem('logged')=='true'}
 							<Link to="profile" class="menuBar" style="color:{settings.burger_menu_font_color};font-size:{settings.burger_menu_font_size}">{settings.profile_txt}</Link>
-							<span on:click="{()=>{logout}}" class="menuBar" style="color:{settings.burger_menu_font_color};font-size:{settings.burger_menu_font_size}">{settings.logout_txt}</span>
+							<span on:click="{()=>{logout()}}" class="menuBar" style="color:{settings.burger_menu_font_color};font-size:{settings.burger_menu_font_size}">{settings.logout_txt}</span>
 						{:else}
 							<Link to="login" class="menuBar" style="color:{settings.burger_menu_font_color};font-size:{settings.burger_menu_font_size}">{settings.login_txt}</Link>
 							<Link to="register" class="menuBar" style="color:{settings.burger_menu_font_color};font-size:{settings.burger_menu_font_size}">{settings.register_txt}</Link>

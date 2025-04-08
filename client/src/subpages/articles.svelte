@@ -102,7 +102,7 @@ import Article from "./main_elements/mini_article.svelte"
   </article>
   <article class="articles art_sub">
     {#each articles as article}
-    <Article settings = {settings} article={article} page="b"/>
+    <Article settings = {settings} article={article} page=""/>
       
     {/each}
   </article>

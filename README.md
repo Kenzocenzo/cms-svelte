@@ -4,7 +4,7 @@ Konta do użytku:
 
 Konto użytkownika:
 login: Vernon Roche
-hasło: Temeria
+hasło: temeria
 
 Konto administratora:
 login: Szef_Admin
