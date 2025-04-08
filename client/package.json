@@ -20,7 +20,7 @@
         "svelte-hamburgers": "^4.0.1"
     },
     "dependencies": {
-        "appjs-win32": "0.0.19",
+        "appjs-win32": "^0.0.19",
         "autobuild": "0.0.2",
         "npm-watch": "^0.11.0",
         "simple-svelte-slideshow": "^1.0.0",

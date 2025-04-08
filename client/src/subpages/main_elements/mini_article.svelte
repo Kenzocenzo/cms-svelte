@@ -13,7 +13,7 @@
     <div class="articleDesc" style="background-color:{settings.article_miniature_bg_color}">
         <h3 style="color:{settings.article_miniature_header_color}">{article.title}</h3>
         <p style="color:{settings.article_miniature_content_color}">{article.intro}</p>
-        <p style="color:{settings.article_miniature_content_color}; font-size:11px">Kategoria: {article.category} {article.id}</p>
+        <p style="color:{settings.article_miniature_content_color}; font-size:11px">Kategoria: {article.category} </p>
         <p style="color:{settings.article_miniature_content_color}; font-size:11px">{article.date}</p>
     </div>
 </div>
